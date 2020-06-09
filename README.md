@@ -5,7 +5,7 @@ Resoluções das atividades da disciplina de Desenvolvimento Web (Professor Nels
 ## Descrição das Atividades
 
 ### WIKI
-Construção de uma página que contendo links internos. Seguir o modelo do [wikipedia](__blank http://pt.wikipedia.org/wiki/Html).
+Construção de uma página que contendo links internos. Seguir o modelo da [wikipedia](http://pt.wikipedia.org/wiki/Html).
 
 ### TABELA
 
