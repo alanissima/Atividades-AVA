@@ -6,14 +6,14 @@ Resoluções das atividades da disciplina de Desenvolvimento Web (Professor Nels
 ## Descrição das Atividades
 
 
-### WIKI
+### [WIKI](wiki.html)
 
 Construção de uma página que contendo links internos. Seguir o modelo da [Wikipedia](http://pt.wikipedia.org/wiki/Html).
 
-### TABELA
+### [TABELA](tabela.html)
 
 Contrução de uma página web que contenha duas tabelas de acordo com os exemplos dados.
 
-### LISTAS
+### [LISTAS](listas.html)
 
 Construção de uma página que contenha uma listagem várias vezes repetidas, mas com diferentes atributos de acordo com o exemplo.
